@@ -31,6 +31,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text%203-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 
 ---
 
